@@ -40,7 +40,7 @@ State ,
 zip_code
 )
 
-values ('Tsega', 'Tefera', 'tsega492@gmail.com','301-793-7670','Silver Spring', 'MD', 20901)
+values ('EDEN', 'Zirpins', 'g-eden@hotmail.com','301-804-7144','Cypress', 'CA', 90630)
 
 
---------you inserting values----------------
+--------Eden inserting values----------------
